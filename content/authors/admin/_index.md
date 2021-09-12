@@ -51,4 +51,4 @@ I have successfully developed and delivered a variety of courses at both undergr
 I am currently an Associate Editor of M&SOM and regularly serve as judges for paper competitions, review panels of research grant proposals, referees of leading academic journals, professional conference organizers, and session chairs. I am the recipient of Management Science and M&SOM Meritorious Service Awards. I also have extensive experience interacting with business leaders such as C.H. Robinson, Orora, ScanSource, Textron Aviation, and Target. 
 
 
-{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/ShouqiangWangCV.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  {{< staticref "https://personal.utdallas.edu/~sxw163830/ShouqiangWangCV.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
