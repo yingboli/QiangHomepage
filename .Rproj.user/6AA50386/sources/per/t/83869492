@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631305162803.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1050311160",
+    "id" : "83869492",
+    "lastKnownWriteTime" : 1631306444,
+    "last_content_update" : 1631306444,
+    "path" : "~/Dropbox/Yingbo/Life/MyBlog/111817_build_my_blog.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
