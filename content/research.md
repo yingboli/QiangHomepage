@@ -6,7 +6,12 @@ title: Research
 
 # Papers
 
-* [Informing the Public about a Pandemic](/papers/Covid.pdf), with [Huseyin Gurkan](https://faculty-research.esmt.berlin/person/huseyin-gurkan/bio) and [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio). (Accepted at *Management Science*) 
+* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://scm.mit.edu/bio/mehdi-h-farahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/). 
+
+    - Burning crop residue in harvested fields to prepare land for sowing a new crop is well-recognized as a significant contributor to CO2 and black-carbon emissions. A specific agricultural machine called Happy Seeder has emerged as the most effective and profitable alternative to open burning.We study how the government can use effective information-disclosure policies in the operation of Happy Seeders to minimize agricultural open burning. 
+    
+
+* [Informing the Public about a Pandemic](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4016), with [Huseyin Gurkan](https://faculty-research.esmt.berlin/person/huseyin-gurkan/bio) and [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio). (Accepted at *Management Science*) 
 
     - Press Coverage by [ESMT](https://esmt.berlin/press/when-downplay-severity-covid-19-esmt-berlin-study-investigates-how-governments-inform-public), [EurekAlert](https://www.eurekalert.org/news-releases/557783), [World News Monitor](https://world-news-monitor.com/science-coronavirus/2021/03/03/esmt-berlin-study-investigates-how-governments-inform-the-public-about-a-pandemic/)
 
@@ -25,25 +30,25 @@ title: Research
 
     - We consider a decentralized supply chain where a supplier sells goods to a retailer facing a general random demand over an infinite horizon. The retailer satisfies the demand to the extent of the inventory on hand. The retailer has private information about his inventory in each period, and the supplier offers him a dynamic supply contract menu to account for such information asymmetry. The supplier's contract design problem can be formulated as a functional optimization with the retailer's incentive compatibility constraint expressed as a functional Bellman equation. Mathematically, the problem belongs to calculus of variations, and requires us to develop powerful new methodologies by replacing the usual concept of gradient with that of Gateaux derivative. 
     
-* [The Informational Role of Buyback Contracts](/papers/Buyback.pdf), with [Haresh Gurnani](https://business.wfu.edu/directory/haresh-gurnani/) and [Upender Subramanian](https://personal.utdallas.edu/~uxs092000/), *Management Science*, 67(1): 279-296, 2021.
+* [The Informational Role of Buyback Contracts](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3552), with [Haresh Gurnani](https://business.wfu.edu/directory/haresh-gurnani/) and [Upender Subramanian](https://personal.utdallas.edu/~uxs092000/), *Management Science*, 67(1): 279-296, 2021.
 
     - We examine the informational role of buyback contracts in credibly signaling either a manufacturer's reliability of honoring the buyback commitment, or her product's market potential. We find that these two situations form contrasting buyback designs: a manufacturer must distort the wholesale and returns prices downward to signal higher reliability and upward to signal higher market potential. The returns price emerges as a more efficient signaling instrument and reverses the direction of wholesale price distortion from what is necessary if the wholesale price alone is used to distort the returns cost. 
     
-* [Warning Against Recurring Risks: An Information Design Approach](/papers/Warning.pdf), with [Saed Alizamir](https://som.yale.edu/faculty/saed-alizamir) and [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio),   *Management Science*, 66(10): 4612-4629.  (Former title: Design of Public Warning Systems) 
+* [Warning Against Recurring Risks: An Information Design Approach](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3420), with [Saed Alizamir](https://som.yale.edu/faculty/saed-alizamir) and [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio),   *Management Science*, 66(10): 4612-4629.  (Former title: Design of Public Warning Systems) 
 
     - Winner of 2018 Best Paper Award, Humanitarian Operations & Crisis Management Track of POM Society
     - Press Coverage by [Yale Insight](https://insights.som.yale.edu/insights/why-the-who-was-afraid-of-crying-pandemic) and [Forbes](https://www.forbes.com/sites/esmtberlin/2020/03/18/controlling-the-coronavirus-is-not-a-medical-problem/#422f3b846092) 
 
     - We study a novel information design problem addressing the issue of sending warning messages against recurring risks, a challenge particularly prevalent in global health and disaster management arena. Our framework accounts for dynamic learning effects and which we solve in closed-form. We uncover nuanced effects that induce a warning sender to strategically exaggerate or downplay a risk when alerting an uninformed stakeholder against an upcoming threat. 
     
-* [Procurement with Cost and Non-Cost Attributes: Cost-Sharing Mechanisms](/papers/CostSharing.pdf), with [Shivam Gupta](https://business.unl.edu/people/sgupta), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/), *Operations Research*, forthcoming.
+* [Procurement with Cost and Non-Cost Attributes: Cost-Sharing Mechanisms](https://pubsonline.informs.org/doi/abs/10.1287/opre.2020.2060), with [Shivam Gupta](https://business.unl.edu/people/sgupta), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/), *Operations Research*, forthcoming.
 
     - Selected to present at M&SOM 2018 Conference – SIG Meeting on Supply Chain Management
 
     - We study an easy-to-implement class of cost-sharing mechanisms as the solution to a prevalent procurement problem, whereby the buyer faces two-dimensional private information: cost and non-cost attributes. We show how the cost-sharing fraction strikes the fundamental tradeoff between allocative inefficiency versus information rent. We characterize the optimal cost-sharing fraction in closed form and offer prescriptive guidelines on the choice of this fraction purely based on the second-moment information of the buyer’s belief distribution. We demonstrate, both theoretically and numerically, that the best cost-sharing mechanism is near-optimal. 
     
     
-* [Designing Sustainable Products under Co-Production Technology](/papers/Coproduct.pdf), with [Yen-Ting Lin](https://www.sandiego.edu/business/faculty-and-staff/?_focus=1200) and [Haoying Sun](https://gatton.uky.edu/faculty-research/faculty/sun-haoying), *M&SOM*, 22(6): 1181-1198, 2020.
+* [Designing Sustainable Products under Co-Production Technology](https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0881), with [Yen-Ting Lin](https://www.sandiego.edu/business/faculty-and-staff/?_focus=1200) and [Haoying Sun](https://gatton.uky.edu/faculty-research/faculty/sun-haoying), *M&SOM*, 22(6): 1181-1198, 2020.
 
     - Motivated by emerging business practice, such as Taylor Guitars, our study informs firms when and how to leverage a co-product's environmental value through product positioning decisions (i.e., quality and price). We find that, for intermediate material cost and lower green consumer's environmental valuation, the firm should position the co-product without extracting its environmental value from green consumers. Otherwise, the firm should position the co-product to extract all consumer surplus by charging an additional price premium.  In the latter case, the firm may strategically abandon some traditional consumers, who are, in fact, willing to purchase the more expensive traditional product, and leave their demand unfulfilled. Our research also yields important environmental and policy implications regarding conservation of scarce resources.
     

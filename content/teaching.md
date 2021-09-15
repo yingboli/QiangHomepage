@@ -11,7 +11,7 @@ title: Teaching
 
 * OPRE 6301: Statistics and Data Analytics (graduate core)
 
-    - Fall: 2016, 2017, 2018, 2019, 2020 ([MBA](/classes/OPRE6301MBC-Fall2020.pdf), master, Executive MBA, Online MBA)
+    - Fall: 2016, 2017, 2018, 2019, 2020, 2021 ([MBA](/classes/OPRE6301MBC-Fall2021.pdf), master, Executive MBA, Online MBA)
 
 # Clemson
 
