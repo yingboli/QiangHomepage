@@ -39,3 +39,7 @@ title: Others
 # Media
 
 * ["Faces of JSOM" faculty spotlight by JSOM Dean's Council](https://www.instagram.com/p/CLFjw1KhL1F/?utm_source=ig_web_copy_link)
+
+# Acknowledgement
+
+* I would like to thank my lovely wife for creating this website. She has a nice cooking and statistics blog: www.liyingbo.com
