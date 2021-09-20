@@ -20,11 +20,14 @@ title: Others
 
 * [Ting Luo](https://business.fullerton.edu/department/ISDS/faculty-profiles?user=ting.luo@fullerton.edu&user=ting.luo@fullerton.edu), 2016 (committee member). Placement: California State University at Fullerton, Mihaylo College of Business and Economics. 
 
-* Xi Shan, 2019 (committee member). Placement: Boston College.
+* [Xi Shan](https://www.bemidjistate.edu/directory/facstaff/fg7362ex/), 2019 (committee member). Placement: Boston College.
+
+* [Fariba Farajbakhsh Mamaghani](https://freeman.tulane.edu/faculty-research/management-science/fariba-mamaghani), 2021 (committee member). Placement: Tulane University.
+
+* [Mehdi H. Farahani](https://scm.mit.edu/bio/mehdi-h-farahani), 2021 (committee member). Placement: MIT.
 
 * [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul), ongoing (advisor).
 
-* Fariba Farajbakhsh Mamaghani, ongoing (advisor).
 
 # Supply Chain Industrial Speakers Series
 
