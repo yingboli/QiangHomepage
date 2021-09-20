@@ -29,7 +29,7 @@ title: Others
 * [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul), ongoing (advisor).
 
 
-# Supply Chain Industrial Speakers Series
+# Supply Chain Industrial Speakers Series (Clemson)
 
 * Target
 
