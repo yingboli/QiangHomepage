@@ -22,7 +22,7 @@ Naveen Jindal School of Management<br>
 The University of Texas at Dallas<br>
 Richardson, TX 75080
 
-### [Curriculum Vitae(pdf)](https://www.dropbox.com/s/k5hyo51vpbtiaf5/ShouqiangWangCV.pdf?dl=0)
+### [Curriculum Vitae(pdf)](https://www.dropbox.com/s/k5hyo51vpbtiaf5/ShouqiangWangCV.pdf?dl=1)
 
 ## Biography
 
