@@ -34,7 +34,7 @@ My research focuses on strategic operations problems that arise from both busine
 
 I have successfully developed and delivered a variety of courses at both undergraduate and graduate levels, including Spreadsheet Modeling and Analytics, Statistics and Data Analysis,  Decision Models, Operations Management, Sourcing and Supplier Management, Logistics Management. I am a finalist for Jindal Faculty of the Year (Graduate). I also serve on multiple doctoral dissertation committees. My PhD students' research has been recognized by the prestigious Jeff McGill Student Paper Award by INFORMS Revenue Management & Pricing Section.  
 
-I am currently an Associate Editor of *M&SOM* and regularly serve as judges for paper competitions, review panels of research grant proposals, referees of leading academic journals, professional conference organizers, and session chairs. I am the recipient of *Management Science* and *M&SOM* Meritorious Service Awards. I also have extensive experience interacting with business leaders such as C.H. Robinson, Orora, ScanSource, Textron Aviation, and Target. 
+I am currently an Associate Editor of *M&SOM* and *Operations Research*. I regularly serve as judges for paper competitions, review panels of research grant proposals, referees of leading academic journals, professional conference organizers, and session chairs. I am the recipient of *Management Science* and *M&SOM* Meritorious Service Awards. I also have extensive experience interacting with business leaders such as C.H. Robinson, Orora, ScanSource, Textron Aviation, and Target. 
 
 <!-- Default Statcounter code for My Homepage
 shouqiangwang.netlify.app -->
