@@ -11,14 +11,14 @@ title: Research
     - Burning crop residue in harvested fields to prepare land for sowing a new crop is well-recognized as a significant contributor to CO2 and black-carbon emissions. A specific agricultural machine called Happy Seeder has emerged as the most effective and profitable alternative to open burning.We study how the government can use effective information-disclosure policies in the operation of Happy Seeders to minimize agricultural open burning. 
     
 
-* [Informing the Public about a Pandemic](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4016), with [Huseyin Gurkan](https://faculty-research.esmt.berlin/person/huseyin-gurkan/bio) and [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio). (Accepted at *Management Science*) 
+* [Informing the Public about a Pandemic](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4016), with [Huseyin Gurkan](https://faculty-research.esmt.berlin/person/huseyin-gurkan/bio) and [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio), *Management Science*, 67(10): 6358-6377. 
 
     - Press Coverage by [United Nations](https://www.un.org/en/academic-impact/examining-dissemination-information-covid-19-healthy-economy-over-public-health), [ESMT](https://esmt.berlin/press/when-downplay-severity-covid-19-esmt-berlin-study-investigates-how-governments-inform-public), [EurekAlert](https://www.eurekalert.org/news-releases/557783), [World News Monitor](https://world-news-monitor.com/science-coronavirus/2021/03/03/esmt-berlin-study-investigates-how-governments-inform-the-public-about-a-pandemic/)
 
     - The COVID-19 pandemic has highlighted the importance of properly informing the population about the epidemic when implementing governmental confinement measures. Indeed, the efficacy of these restrictions relies heavily on public compliance. Our work sheds light on how governments should inform the population to induce such social distancing behavior. Using an information design framework, our model explicitly account for the health-economy tradeoffs, the strategic externalities of individual compliance behaviors, and the economic inequality of the population.
     
     
-* [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](/papers/Platform.pdf), with [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul) and [Özalp Özer](https://personal.utdallas.edu/~oozer/). (Accepted at *Management Science*)
+* [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](/papers/Platform.pdf), with [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, forthcoming.
 
     - Second Prize, 2020 Jeff McGill Student Paper Award by INFOMRS Revenue Management & Pricing Section 
 
