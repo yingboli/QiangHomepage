@@ -15,7 +15,8 @@ title: Research
 
     - We consider a decentralized supply chain where a supplier sells goods to a retailer facing a general random demand over an infinite horizon. The retailer satisfies the demand to the extent of the inventory on hand. The retailer has private information about his inventory in each period, and the supplier offers him a dynamic supply contract menu to account for such information asymmetry. The supplier's contract design problem can be formulated as a functional optimization with the retailer's incentive compatibility constraint expressed as a functional Bellman equation. Mathematically, the problem belongs to calculus of variations, and requires us to develop powerful new methodologies by replacing the usual concept of gradient with that of Gateaux derivative. 
     
-    * [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](/papers/Platform.pdf), with [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, forthcoming.
+
+* [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](/papers/Platform.pdf), with [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, forthcoming.
 
     - Second Prize, 2020 Jeff McGill Student Paper Award by INFOMRS Revenue Management & Pricing Section 
 
@@ -35,6 +36,8 @@ title: Research
 * [The Informational Role of Buyback Contracts](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3552), with [Haresh Gurnani](https://business.wfu.edu/directory/haresh-gurnani/) and [Upender Subramanian](https://personal.utdallas.edu/~uxs092000/), *Management Science*, 67(1): 279-296, 2021.
 
     - We examine the informational role of buyback contracts in credibly signaling either a manufacturer's reliability of honoring the buyback commitment, or her product's market potential. We find that these two situations form contrasting buyback designs: a manufacturer must distort the wholesale and returns prices downward to signal higher reliability and upward to signal higher market potential. The returns price emerges as a more efficient signaling instrument and reverses the direction of wholesale price distortion from what is necessary if the wholesale price alone is used to distort the returns cost. 
+    
+    
     
 * [Procurement with Cost and Non-Cost Attributes: Cost-Sharing Mechanisms](https://pubsonline.informs.org/doi/abs/10.1287/opre.2020.2060), with [Shivam Gupta](https://business.unl.edu/people/sgupta), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/), *Operations Research*, 69(5): 1349-1367, 2021.
 
@@ -60,7 +63,7 @@ title: Research
 
     - Press Coverage by Newswise.com
     
-    -A product trial period offers a learning channel, through which consumers can privately update their heterogeneous assessment of the product. This enables the trial length as a novel signal of the seller’s unobservable product quality in addition to the conventional price signal. This paper formalizes this idea in a continuous-time Bayesian learning model.
+    - A product trial period offers a learning channel, through which consumers can privately update their heterogeneous assessment of the product. This enables the trial length as a novel signal of the seller’s unobservable product quality in addition to the conventional price signal. This paper formalizes this idea in a continuous-time Bayesian learning model.
 
     - [Note: Entrant’s Product Quality Signaling through a Trial Period in a Competitive Market](/papers/TrialPeriod_Competition.pdf)
 
