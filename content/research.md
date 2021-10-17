@@ -62,7 +62,7 @@ title: Research
 
     - This note provides a self-contained analysis of an entrant-incumbent competition as an extension of the monopolistic trial period signaling model examined by the paper above. 
 
-* [Resource Allocation under Demand Uncertainty and Private Information](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2574), with [Alexandre Belloni(https://faculty.fuqua.duke.edu/~abn5/belloni-index.html) and [Giuseppe Lopomo](https://www.fuqua.duke.edu/faculty/giuseppe-lopomo), *Management Science*, 63(12): 4219-4235, 2017.
+* [Resource Allocation under Demand Uncertainty and Private Information](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2574), with [Alexandre Belloni](https://faculty.fuqua.duke.edu/~abn5/belloni-index.html) and [Giuseppe Lopomo](https://www.fuqua.duke.edu/faculty/giuseppe-lopomo), *Management Science*, 63(12): 4219-4235, 2017.
 
     - Our findings call attention to the strategic benefits that may arise in the presence of multilateral private information from consolidating the bargaining power to the sector that is directly exposed to demand uncertainty. A novel type of distortion, which we term as "overshooting," emerges. These results resonate with the significantly different performances of the US agricultural produce and flu vaccine markets.  
     
@@ -81,7 +81,7 @@ title: Research
 
     - The above two articles develop the adversarial risk analysis (ARA) framework and apply it to the classical Borel games and national defense setting.
     
-* [Multi-dimensional Mechanism Design: Finite Dimensional Approximations and Efficient Computation](https://pubsonline.informs.org/doi/abs/10.1287/opre.1100.0824), with with [Alexandre Belloni(https://faculty.fuqua.duke.edu/~abn5/belloni-index.html) and [Giuseppe Lopomo](https://www.fuqua.duke.edu/faculty/giuseppe-lopomo), *Operations Research*, 58(4):1079-1089, 2010.
+* [Multi-dimensional Mechanism Design: Finite Dimensional Approximations and Efficient Computation](https://pubsonline.informs.org/doi/abs/10.1287/opre.1100.0824), with [Alexandre Belloni](https://faculty.fuqua.duke.edu/~abn5/belloni-index.html) and [Giuseppe Lopomo](https://www.fuqua.duke.edu/faculty/giuseppe-lopomo), *Operations Research*, 58(4):1079-1089, 2010.
 
     - Funded by NSF 
 
