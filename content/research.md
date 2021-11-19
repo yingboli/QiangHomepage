@@ -16,7 +16,7 @@ title: Research
     - We consider a decentralized supply chain where a supplier sells goods to a retailer facing a general random demand over an infinite horizon. The retailer satisfies the demand to the extent of the inventory on hand. The retailer has private information about his inventory in each period, and the supplier offers him a dynamic supply contract menu to account for such information asymmetry. The supplier's contract design problem can be formulated as a functional optimization with the retailer's incentive compatibility constraint expressed as a functional Bellman equation. Mathematically, the problem belongs to calculus of variations, and requires us to develop powerful new methodologies by replacing the usual concept of gradient with that of Gateaux derivative. 
     
 
-* [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](/papers/Platform.pdf), with [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, forthcoming.
+* [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4151), with [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, forthcoming.
 
     - Second Prize, 2020 Jeff McGill Student Paper Award by INFOMRS Revenue Management & Pricing Section 
 
