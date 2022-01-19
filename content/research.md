@@ -6,12 +6,12 @@ title: Research
 
 # Papers
 
-* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://scm.mit.edu/bio/mehdi-h-farahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/). 
+* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://scm.mit.edu/bio/mehdi-h-farahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/). (Major revision at *Management Science*)
 
     - Burning crop residue in harvested fields to prepare land for sowing a new crop is well-recognized as a significant contributor to CO2 and black-carbon emissions. A specific agricultural machine called Happy Seeder has emerged as the most effective and profitable alternative to open burning.We study how the government can use effective information-disclosure policies in the operation of Happy Seeders to minimize agricultural open burning. 
     
     
-* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3493939), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/). (Major revision at *Operations Research*)
+* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3493939), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/). (Under 2nd review at *Operations Research*)
 
     - We consider a decentralized supply chain where a supplier sells goods to a retailer facing a general random demand over an infinite horizon. The retailer satisfies the demand to the extent of the inventory on hand. The retailer has private information about his inventory in each period, and the supplier offers him a dynamic supply contract menu to account for such information asymmetry. The supplier's contract design problem can be formulated as a functional optimization with the retailer's incentive compatibility constraint expressed as a functional Bellman equation. Mathematically, the problem belongs to calculus of variations, and requires us to develop powerful new methodologies by replacing the usual concept of gradient with that of Gateaux derivative. 
     
