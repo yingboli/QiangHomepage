@@ -6,12 +6,12 @@ title: Teaching
 
 * OPRE 4350: Spreadsheet Modeling and Analytics (junior/senior elective)
 
-    - Fall: 2016, 2017, 2018, 2019, 2020 
-    - Spring: [2021](/classes/OPRE4350-Spring2021.pdf)
+    - Fall: 2016, 2017, 2018, 2019, 2020. 2022
+    - Spring: 2021, 2022
 
 * OPRE 6301: Statistics and Data Analytics (graduate core)
 
-    - Fall: 2016, 2017, 2018, 2019, 2020, 2021 ([MBA](/classes/OPRE6301MBC-Fall2021.pdf), master, Executive MBA, Online MBA)
+    - Fall: 2016, 2017, 2018, 2019, 2020, 2021, 2022 (MBA, master, Executive MBA, Online MBA)
 
 # Clemson
 

@@ -24,9 +24,9 @@ title: Others
 
 * [Fariba Farajbakhsh Mamaghani](https://freeman.tulane.edu/faculty-research/management-science/fariba-mamaghani), 2021 (committee member). Placement: Tulane University.
 
-* [Mehdi H. Farahani](https://scm.mit.edu/bio/mehdi-h-farahani), 2021 (committee member). Placement: MIT.
+* [Mehdi H. Farahani](https://sites.google.com/view/mehdifarahani), 2021 (committee member). Placement: University of Miami.
 
-* [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul), ongoing (advisor).
+* [Can Kücükgül](https://sites.google.com/view/cankucukgul/home), 2022 (advisor). Placement: Rutgers University - Camden.
 
 
 # Supply Chain Industrial Speakers Series (Clemson)

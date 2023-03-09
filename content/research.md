@@ -5,18 +5,41 @@ title: Research
 
 
 # Papers
+* [Information Design of a Delegated Search](https://ssrn.com/abstract=4249165), with [Yangge Xiao](https://yanggexiao.mystrikingly.com/) and [Zhenyu Hu](https://bizfaculty.nus.edu.sg/faculty-details/?profId=456). (Under review at *Management Science*)
 
-* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://scm.mit.edu/bio/mehdi-h-farahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/). (Major revision at *Management Science*)
+    - We formulate the  dynamic information design of a delegated search  and fully characterize its optimal information policy, which is completely prescribed by a sequence of deterministic acceptance standards. The agent is recommended to continue the search if the current termination payoff fails to meet that period’s standard. For searches like talent recruitment, where outcomes are not recallable, acceptance standards should be gradually loosened as the search progresses so as to back-load the search incentives. On the other hand, for innovation-driven searches, like R&D or academic research, where search outcomes accumulate, search incentives should be front-loaded by adopting a hands-off approach early in the search, and only nudging the search later on.
+    
+
+* [The Impact of Climate Change: An Empirical Analysis of Smart Thermostat Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4282220), with [Michael Blair](https://www.michaelrblair.com/) and [Saed Alizamir](https://som.yale.edu/faculty/saed-alizamir). (Under review at *Management Science*)
+
+    - Leveraging a high-frequency smart thermostat data set, we empirically examine how households' energy consumption decisions respond to exogenous weather in the long and short run. As a policy insight, energy conservation should dissuade households from relying on long-term automation, while incentivizing short-term adherence to pre-programmed decisions.
+    
+    
+* [Recommender Systems under Privacy Protection](https://ssrn.com/abstract=4138757), with [Can Kücükgül](https://sites.google.com/view/cankucukgul/home) and [Özalp Özer](https://personal.utdallas.edu/~oozer/). (Reject and resubmit at *Management Science*)
+
+    -  Personal preferences over different product offerings are a basic constituent of consumer privacy. We study how a profit-driven online platform designs its recommender system in response to different regulatory levels of privacy protection. We find that the opt-out privacy protection does not hinder the platform’s profitability nor the user’s surplus when compared to unprotected privacy. However, the self-disclosure option, which offers users the highest autonomy over their privacy, may lead to algorithmic discrimination, whereby the disadvantaged minority in the society are restricted or deprived of access to potential valuable opportunities.
+    
+    
+* [Audit and Remediation Strategies in the Presence of Evasion Capabilities](http://www.utdallas.edu/~sxw163830/papers/Evasion.pdf), with [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio) and [Peng Sun](https://faculty.fuqua.duke.edu/~psun/bio/). (Under revision at *Operations Research*)
+
+    - In a continuous-time dynamic mechanism design framework, we formulate a principal's problem of seeking to uncover and remedy an issue that occurs to an agent at a random point in time. Only the agent observes the issue’s occurrence and can evade the principal's audits. We find that the principle should implement a cyclic auditing and remedial cost-sharing mechanism. Importantly, the principle should randomly audit the agent when the evasion capability is highly effective, but resort to pre-determined audit schedules otherwise.
+    
+
+* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://sites.google.com/view/mehdifarahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/). (Under 2nd review at *Management Science*)
 
     - Burning crop residue in harvested fields to prepare land for sowing a new crop is well-recognized as a significant contributor to CO2 and black-carbon emissions. A specific agricultural machine called Happy Seeder has emerged as the most effective and profitable alternative to open burning.We study how the government can use effective information-disclosure policies in the operation of Happy Seeders to minimize agricultural open burning. 
     
+    - Honorable Mention, 2022 Best Paper Award, Humanitarian Operations & Crisis Management Track of POM Society
     
-* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3493939), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/). (Under 2nd review at *Operations Research*)
+    
+* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3493939), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/). (Under 3rd review at *Operations Research*)
 
     - We consider a decentralized supply chain where a supplier sells goods to a retailer facing a general random demand over an infinite horizon. The retailer satisfies the demand to the extent of the inventory on hand. The retailer has private information about his inventory in each period, and the supplier offers him a dynamic supply contract menu to account for such information asymmetry. The supplier's contract design problem can be formulated as a functional optimization with the retailer's incentive compatibility constraint expressed as a functional Bellman equation. Mathematically, the problem belongs to calculus of variations, and requires us to develop powerful new methodologies by replacing the usual concept of gradient with that of Gateaux derivative. 
     
 
-* [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4151), with [Can Kücükgül](https://jindal.utdallas.edu/phd-students/can-kucukgul) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, forthcoming.
+* [Engineering Social Learning: Information Design of Time-Locked Sales Campaigns for Online Platforms](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4151), with [Can Kücükgül](https://sites.google.com/view/cankucukgul/home) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, 68(7): 4899-4918, 2022.
+
+    - [On an Open Question in Kücükgül, Özer, and Wang (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342480), with [Yang Bo](https://www.bschool.cuhk.edu.hk/staff/bo-yang/), technical note.
 
     - Second Prize, 2020 Jeff McGill Student Paper Award by INFOMRS Revenue Management & Pricing Section 
 
@@ -105,8 +128,6 @@ title: Research
 * [A Simple Application of Seminorm Representation in Dynamic Programming](/papers/Seminorm.pdf), 2008.
 
 # Works in Progress
-
-* Audit and Remediation Strategies in the Presence of Evasion Capabilities, with [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio) and [Peng Sun](https://faculty.fuqua.duke.edu/~psun/bio/).
 
 * Strategic Role of Service Quality Monitoring, with [Aleda Roth](http://www.clemson.edu/business/about/profiles/AROTH) and Qiong Chen.  
 
