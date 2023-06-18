@@ -32,7 +32,7 @@ title: Research
     - Honorable Mention, 2022 Best Paper Award, Humanitarian Operations & Crisis Management Track of POM Society
     
     
-* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3493939), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/). (Under 3rd review at *Operations Research*)
+* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3493939), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/), *Operations Research*, forthcoming.
 
     - We consider a decentralized supply chain where a supplier sells goods to a retailer facing a general random demand over an infinite horizon. The retailer satisfies the demand to the extent of the inventory on hand. The retailer has private information about his inventory in each period, and the supplier offers him a dynamic supply contract menu to account for such information asymmetry. The supplier's contract design problem can be formulated as a functional optimization with the retailer's incentive compatibility constraint expressed as a functional Bellman equation. Mathematically, the problem belongs to calculus of variations, and requires us to develop powerful new methodologies by replacing the usual concept of gradient with that of Gateaux derivative. 
     
