@@ -5,29 +5,29 @@ title: Research
 
 
 # Papers
-* [Information Design of a Delegated Search](https://ssrn.com/abstract=4249165), with [Yangge Xiao](https://yanggexiao.mystrikingly.com/) and [Zhenyu Hu](https://bizfaculty.nus.edu.sg/faculty-details/?profId=456). (Under review at *Management Science*)
+* [Information Design of a Delegated Search](https://ssrn.com/abstract=4249165), with [Yangge Xiao](https://yanggexiao.mystrikingly.com/) and [Zhenyu Hu](https://bizfaculty.nus.edu.sg/faculty-details/?profId=456). (Under revision at *Management Science*)
 
     - We formulate the  dynamic information design of a delegated search  and fully characterize its optimal information policy, which is completely prescribed by a sequence of deterministic acceptance standards. The agent is recommended to continue the search if the current termination payoff fails to meet that period’s standard. For searches like talent recruitment, where outcomes are not recallable, acceptance standards should be gradually loosened as the search progresses so as to back-load the search incentives. On the other hand, for innovation-driven searches, like R&D or academic research, where search outcomes accumulate, search incentives should be front-loaded by adopting a hands-off approach early in the search, and only nudging the search later on.
     
     - Runner-up, 2023 Decision Analysis Society (DAS) Student Paper Award
     
 
-* [The Impact of Climate Change: An Empirical Analysis of Smart Thermostat Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4282220), with [Michael Blair](https://www.michaelrblair.com/) and [Saed Alizamir](https://som.yale.edu/faculty/saed-alizamir). (Under review at *Management Science*)
+* [The Impact of Climate Change: An Empirical Analysis of Smart Thermostat Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4282220), with [Michael Blair](https://www.michaelrblair.com/) and [Saed Alizamir](https://som.yale.edu/faculty/saed-alizamir). (Under revision at *Management Science*)
 
     - Leveraging a high-frequency smart thermostat data set, we empirically examine how households' energy consumption decisions respond to exogenous weather in the long and short run. As a policy insight, energy conservation should dissuade households from relying on long-term automation, while incentivizing short-term adherence to pre-programmed decisions.
     
     
-* [Recommender Systems under Privacy Protection](https://ssrn.com/abstract=4138757), with [Can Kücükgül](https://sites.google.com/view/cankucukgul/home) and [Özalp Özer](https://personal.utdallas.edu/~oozer/). (Reject and resubmit at *Management Science*)
+* [Recommender Systems under Privacy Protection](https://ssrn.com/abstract=4138757), with [Can Kücükgül](https://sites.google.com/view/cankucukgul/home) and [Özalp Özer](https://personal.utdallas.edu/~oozer/). (Under revision at *Management Science*)
 
     -  Personal preferences over different product offerings are a basic constituent of consumer privacy. We study how a profit-driven online platform designs its recommender system in response to different regulatory levels of privacy protection. We find that the opt-out privacy protection does not hinder the platform’s profitability nor the user’s surplus when compared to unprotected privacy. However, the self-disclosure option, which offers users the highest autonomy over their privacy, may lead to algorithmic discrimination, whereby the disadvantaged minority in the society are restricted or deprived of access to potential valuable opportunities.
     
     
-* [Audit and Remediation Strategies in the Presence of Evasion Capabilities](http://www.utdallas.edu/~sxw163830/papers/Evasion.pdf), with [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio) and [Peng Sun](https://faculty.fuqua.duke.edu/~psun/bio/). (Under review at *Operations Research*)
+* [Audit and Remediation Strategies in the Presence of Evasion Capabilities](http://www.utdallas.edu/~sxw163830/papers/Evasion.pdf), with [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio) and [Peng Sun](https://faculty.fuqua.duke.edu/~psun/bio/). (Minor revision at *Operations Research*)
 
     - In a continuous-time dynamic mechanism design framework, we formulate a principal's problem of seeking to uncover and remedy an issue that occurs to an agent at a random point in time. Only the agent observes the issue’s occurrence and can evade the principal's audits. We find that the principle should implement a cyclic auditing and remedial cost-sharing mechanism. Importantly, each auditing cycle features a deterministic no-audit period followed by a random exponential audit.
     
 
-* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://sites.google.com/view/mehdifarahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/). (Under 2nd review at *Management Science*)
+* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://sites.google.com/view/mehdifarahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/),  *Management Science*, forthcoming.
 
     - Burning crop residue in harvested fields to prepare land for sowing a new crop is well-recognized as a significant contributor to CO2 and black-carbon emissions. A specific agricultural machine called Happy Seeder has emerged as the most effective and profitable alternative to open burning.We study how the government can use effective information-disclosure policies in the operation of Happy Seeders to minimize agricultural open burning. 
     
