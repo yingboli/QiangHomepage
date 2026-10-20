@@ -5,38 +5,58 @@ title: Research
 
 
 # Papers
-* [Optimizing Service Operations with Price- and Density-Dependent Demand: A Copula-Based Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449155), with [Andrew Frazelle](https://andrewfrazelle.com) and Toghrul Rasulov, accepted at *POM*.
 
-* [Information Design of a Delegated Search](https://ssrn.com/abstract=4249165), with [Yangge Xiao](https://yanggexiao.mystrikingly.com/) and [Zhenyu Hu](https://bizfaculty.nus.edu.sg/faculty-details/?profId=456). (Under revision at *Management Science*)
+* [Whispers in the Wind: The Erosion of Transparency in Government Warnings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5469448), with [Feng Tian](https://www.hkubs.hku.hk/people/feng-tian/), [Feifan Zhang](https://www.feifanzhang.info/), Zhenwen Zhao, under revision at *M&SOM*. 
+
+- We examine the troubling trajectory of institutional obfuscation in public crisis communication. As threats ranging from public health emergencies to environmental disasters escalate, government alerts have increasingly shifted from clear, actionable directives to vague, politically mitigated statements. This work investigates the systemic drivers behind this decline in transparency.
+
+* [Boxless Shipping: Balancing Sustainability and Security in Package Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5579190), with [Neda Mirzaeian](https://www.nedamirzaeian.com/) and [Stanley Lim](https://stanley-lim.com/), under revision at *Management Science*.
+
+- The transition to boxless delivery represents a major leap forward for supply chain sustainability, drastically cutting cardboard waste and shipping volume. However, this eco-friendly initiative exposes orders to new risks, from package theft to transit damage. We examine this arising risk through an informational lens and investigate how retailers can minimize environmental impact while safeguarding the last-mile delivery experience.
+
+
+* [Why the Best Machine May Not Be the Best: Incentivizing Human-Machine Collaboration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283571), with Xiaotong Guan and [Anyan Qi](https://jindal.utdallas.edu/faculty/anyan-qi/), under review at *Management Science*. 
+    
+    - We find that a machine with lower precision may be better at incentivizing a human agent to exert efforts in acquiring additional information inaccessible by machine. Interestingly, the agent may over-acquire more information, resulting in possibly higher forecasting accuracy,  than what would be optimal if the forecasting task were not delegated.  On an optimistic note, we find that humans and machines are complementary: the better the information the agent can acquire, the more precise the machine should be.
+
+* [Optimizing Service Operations with Price- and Density-Dependent Demand: A Copula-Based Approach](https://journals.sagepub.com/doi/full/10.1177/10591478241302764), with [Andrew Frazelle](https://andrewfrazelle.com) and Toghrul Rasulov, *POM*, 34(6): 1531-1548, 2025.
+
+    - Using a copula framework, we study a service provider’s pricing and density decisions when customers are heterogeneous both in their valuation and in their sensitivity to crowd density (e.g., due to safety concerns in a pandemic or a desire for privacy and exclusivity). 
+
+* [Information Design of a Delegated Search](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2024.05925), with [Yangge Xiao](https://yanggexiao.mystrikingly.com/) and [Zhenyu Hu](https://bizfaculty.nus.edu.sg/faculty-details/?profId=456), *Management Science*, forthcoming. 
 
     - We formulate the  dynamic information design of a delegated search  and fully characterize its optimal information policy, which is completely prescribed by a sequence of deterministic acceptance standards. The agent is recommended to continue the search if the current termination payoff fails to meet that period’s standard. For searches like talent recruitment, where outcomes are not recallable, acceptance standards should be gradually loosened as the search progresses so as to back-load the search incentives. On the other hand, for innovation-driven searches, like R&D or academic research, where search outcomes accumulate, search incentives should be front-loaded by adopting a hands-off approach early in the search, and only nudging the search later on.
     
     - Runner-up, 2023 Decision Analysis Society (DAS) Student Paper Award
+    - [INFORMS TIMES Paper of the Month](https://www.linkedin.com/posts/informs-times_timespaperofthemonth-managementscience-activity-7492775123628875777-9Z3A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAnmHI4B7OogoH9JHt8gYCg9foOGpoA5n4w) 
     
 
-* [The Impact of Climate Change: An Empirical Analysis of Smart Thermostat Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4282220), with [Michael Blair](https://www.michaelrblair.com/) and [Saed Alizamir](https://som.yale.edu/faculty/saed-alizamir). (Under revision at *Management Science*)
+* [The Impact of Climate Change: An Empirical Analysis of Smart Thermostat Data](https://pubsonline.informs.org/doi/10.1287/mnsc.2024.06952), with [Michael Blair](https://www.michaelrblair.com/) and [Saed Alizamir](https://som.yale.edu/faculty/saed-alizamir), *Management Science*, forthcoming.
 
     - Leveraging a high-frequency smart thermostat data set, we empirically examine how households' energy consumption decisions respond to exogenous weather in the long and short run. As a policy insight, energy conservation should dissuade households from relying on long-term automation, while incentivizing short-term adherence to pre-programmed decisions.
     
+    - Finalist, 2023 Student Paper Competition, POMS College of Sustainable Operations
+    - Press coverage by [Ecobee](https://www.ecobee.com/en-us/citizen/scaling-the-science-of-comfort-how-ecobees-donate-your-data-program-is/)
     
-* [Recommender Systems under Privacy Protection](https://ssrn.com/abstract=4138757), with [Can Kücükgül](https://sites.google.com/view/cankucukgul/home) and [Özalp Özer](https://personal.utdallas.edu/~oozer/). (Under revision at *Management Science*)
+    
+* [Recommender Systems under Privacy Protection](https://pubsonline.informs.org/doi/10.1287/mnsc.2024.05007), with [Can Kücükgül](https://sites.google.com/view/cankucukgul/home) and [Özalp Özer](https://personal.utdallas.edu/~oozer/), *Management Science*, forthcoming.
 
     -  Personal preferences over different product offerings are a basic constituent of consumer privacy. We study how a profit-driven online platform designs its recommender system in response to different regulatory levels of privacy protection. We find that the opt-out privacy protection does not hinder the platform’s profitability nor the user’s surplus when compared to unprotected privacy. However, the self-disclosure option, which offers users the highest autonomy over their privacy, may lead to algorithmic discrimination, whereby the disadvantaged minority in the society are restricted or deprived of access to potential valuable opportunities.
     
     
-* [Audit and Remediation Strategies in the Presence of Evasion Capabilities](http://www.utdallas.edu/~sxw163830/papers/Evasion.pdf), with [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio) and [Peng Sun](https://faculty.fuqua.duke.edu/~psun/bio/), *Operations Research*, forthcoming.
+* [Audit and Remediation Strategies in the Presence of Evasion Capabilities](https://pubsonline.informs.org/doi/full/10.1287/opre.2022.0289), with [Francis de Véricourt](https://faculty-research.esmt.berlin/person/francis-de-vericourt/bio) and [Peng Sun](https://faculty.fuqua.duke.edu/~psun/bio/), *Operations Research*, 72(5):1843-1860, 2024.
 
     - In a continuous-time dynamic mechanism design framework, we formulate a principal's problem of seeking to uncover and remedy an issue that occurs to an agent at a random point in time. Only the agent observes the issue’s occurrence and can evade the principal's audits. We find that the principle should implement a cyclic auditing and remedial cost-sharing mechanism. Importantly, each auditing cycle features a deterministic no-audit period followed by a random exponential audit.
     
 
-* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905970), with [Mehdi H. Farahani](https://sites.google.com/view/mehdifarahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/),  *Management Science*, forthcoming.
+* [Avoiding Fields on Fire: Information Dissemination Policies for Environmentally Safe Crop-Residue Management](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.03030), with [Mehdi H. Farahani](https://sites.google.com/view/mehdifarahani), [Milind Dawande](https://personal.utdallas.edu/~milind/), and [Ganesh Janakiraman](https://jindal.utdallas.edu/faculty/ganesh-janakiraman/),  *Management Science*, 71(8):6319-7222, 2025.
 
     - Burning crop residue in harvested fields to prepare land for sowing a new crop is well-recognized as a significant contributor to CO2 and black-carbon emissions. A specific agricultural machine called Happy Seeder has emerged as the most effective and profitable alternative to open burning.We study how the government can use effective information-disclosure policies in the operation of Happy Seeders to minimize agricultural open burning. 
     
     - Honorable Mention, 2022 Best Paper Award, Humanitarian Operations & Crisis Management Track of POM Society
     
     
-* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3493939), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/), *Operations Research*, forthcoming.
+* [A Stationary Infinite-Horizon Supply Contract under Asymmetric Inventory Information](https://pubsonline.informs.org/doi/full/10.1287/opre.2020.0495), with [Alain Bensoussan](https://jindal.utdallas.edu/faculty/alain-bensoussan) and [Suresh Sethi](https://personal.utdallas.edu/~sethi/), *Operations Research*, 73(1):270-277, 2025.
 
     - We consider a decentralized supply chain where a supplier sells goods to a retailer facing a general random demand over an infinite horizon. The retailer satisfies the demand to the extent of the inventory on hand. The retailer has private information about his inventory in each period, and the supplier offers him a dynamic supply contract menu to account for such information asymmetry. The supplier's contract design problem can be formulated as a functional optimization with the retailer's incentive compatibility constraint expressed as a functional Bellman equation. Mathematically, the problem belongs to calculus of variations, and requires us to develop powerful new methodologies by replacing the usual concept of gradient with that of Gateaux derivative. 
     
