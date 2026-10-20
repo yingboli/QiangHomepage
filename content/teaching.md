@@ -6,28 +6,30 @@ title: Teaching
 
 * OPRE 4350: Spreadsheet Modeling and Analytics (junior/senior elective)
 
-    - Fall: 2016, 2017, 2018, 2019, 2020. 2022
-    - Spring: 2021, 2022
+   <!-- Fall: 2016, 2017, 2018, 2019, 2020. 2022
+    - Spring: 2021, 2022-->
 
 * OPRE 6301: Statistics and Data Analytics (graduate core)
 
-    - Fall: 2016, 2017, 2018, 2019, 2020, 2021, 2022 (MBA, master, Executive MBA, Online MBA)
+    <!-- Fall: 2016, 2017, 2018, 2019, 2020, 2021, 2022 (MBA, master, Executive MBA, Online MBA)-->
+
+* OPRE 7331: Advanced Optimization with Contemporary Applications (PhD elective)
 
 # Clemson
 
 * MGT 3900: Operations Management (junior/senior core)
     
-    - Spring: 2015, 2016
+    <!-- Spring: 2015, 2016-->
 
 * MGT 3170: Logistic Management (junior/senior elective)
 
-    - Fall: 2011, 2012, 2013, 2014, 2015 
-    - Spring: 2012, 2013, 2014. 
+    <!-- Fall: 2011, 2012, 2013, 2014, 2015 
+    - Spring: 2012, 2013, 2014.--> 
     
 * MGT 4120: Supplier Management (junior/senior elective)
 
-    - Fall: 2011, 2012, 2013, 2014, 2015 
-    - Spring: 2012, 2013, 2014, 2015, 2016
+    <!-- Fall: 2011, 2012, 2013, 2014, 2015 
+    - Spring: 2012, 2013, 2014, 2015, 2016-->
 
 ### Animation videos I created to illustrate reorder-point inventory system.
 
